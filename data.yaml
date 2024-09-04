@@ -1,0 +1,14 @@
+path: C:/Users/emryz/OneDrive/Desktop/ML/computer_Vision/o bject detection
+train: train
+val: val
+test: test
+
+nc: 1
+names: ["Boat"]
+
+roboflow:
+  workspace: taiwo-tolulope
+  project: boat_detection-jvnui
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/taiwo-tolulope/boat_detection-jvnui/dataset/1
